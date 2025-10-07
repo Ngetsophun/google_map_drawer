@@ -25,7 +25,7 @@ Add to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  google_map_drawer: ^0.0.3
+  google_map_drawer: ^1.0.0
 
 ## Usage
 import 'package:flutter/material.dart';
